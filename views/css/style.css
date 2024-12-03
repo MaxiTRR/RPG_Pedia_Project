@@ -13,6 +13,16 @@ body{
     margin:0;
     display: grid;
     grid-template-rows: auto 1fr auto;
+    
+}
+
+main{
+    display: grid;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .header{

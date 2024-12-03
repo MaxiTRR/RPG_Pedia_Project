@@ -25,7 +25,5 @@
             <?php include './views/includes/Script.php'; ?>
         <?php include './views/includes/Footer.php'; ?>
         <?php } ?>
-        
-
 </body>
 </html>
